@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Haotian Ni (倪浩天)
+title: Haotian Ni
 
 # Name pronunciation (optional)
 name_pronunciation: ''

@@ -35,10 +35,10 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        # Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        # I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I am an undergraduate student at Beihang University, majoring in Computer Science. I have a strong interest in Artificial Intelligence, with a focus on developing a world model that can understand and generate content accordingly. My research interests include Multimodal Learning (including alignment, learning theory, and MLLMs) and Generative Models (particularly Diffusions).
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
         Please reach out to collaborate 😃
     design:
       columns: '1'
