@@ -124,4 +124,4 @@ education:
 
 ## About Me
 
-🥹 I'm an undergraduate student studying Computer Science at Beihang University (BUAA), expected to graduate in 2026. I'm currently seeking PhD opportunities. 
+🥹 I'm an undergraduate student studying Computer Science at [Beihang University (BUAA)](https://www.buaa.edu.cn/), expected to graduate in 2026. I'm currently seeking PhD opportunities. In my junior year of university, I'm honored to join [GeWu-lab](https://gewu-lab.github.io/) as an research assistant, supervised by Professor Di Hu. 
