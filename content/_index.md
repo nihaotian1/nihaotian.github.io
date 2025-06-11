@@ -53,7 +53,7 @@ sections:
   #     columns: 2
   - block: collection
     content:
-      title: Recent Publications
+      title: Publications
       text: ""
       filters:
         folders:
@@ -63,7 +63,7 @@ sections:
       view: citation
   - block: markdown
     content:
-      title: 'Recent News'
+      title: 'News'
       subtitle: ''
       text: |-
         [2025-06-11] A paper accepted by ICML 2025! Thanks to all co-authors! 🎉🎉🎉
