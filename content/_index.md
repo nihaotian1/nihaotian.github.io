@@ -69,16 +69,16 @@ sections:
         [2025-06-11] A paper accepted by ICML 2025! Thanks to all co-authors! 🎉🎉🎉
     design:
       columns: '1'
-  # - block: collection
-  #   id: talks
-  #   content:
-  #     title: Recent & Upcoming Talks
-  #     filters:
-  #       folders:
-  #         - event
-  #   design:
-  #     view: article-grid
-  #     columns: 1
+  - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - event
+    design:
+      view: article-grid
+      columns: 1
   # - block: collection
   #   id: news
   #   content:
