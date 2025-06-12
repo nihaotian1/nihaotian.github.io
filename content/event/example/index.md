@@ -1,7 +1,11 @@
+---
 title: Talk on AI Time
 
-event: Giving a talk of ICML paper "RollingQ: Reviving Cooperation Dynamics in Multimodal Transformer" in AI Time
+event: Giving a talk for ICML paper "Reviving the Cooperation Dynamics in Multimodal Transformer"
+
 event_url: https://mp.weixin.qq.com/s/e2px5ZcPsuSXQrun_p9o7g
+
+---
 
 <!-- location: Hugo Blox Builder HQ
 address:
@@ -27,6 +31,8 @@ authors:
   - admin
 
 tags: []
+
+featured: false
 
 <!-- # Is this a featured talk? (true/false)
 featured: false
