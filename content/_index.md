@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am an undergraduate student at Beihang University, majoring in Computer Science. I have a strong interest in Artificial Intelligence, with a focus on developing a world model that can understand and generate content accordingly. My research interests include Multimodal Learning (including alignment, learning theory, and MLLMs) and Generative Models (particularly Diffusions).
+        I am an undergraduate student at Beihang University, majoring in Computer Science. I have a strong interest in Artificial Intelligence, with a focus on developing a world model that can understand and generate content accordingly. My research interests lie in Multimodal Learning (including alignment, learning theory, and MLLMs) and Generative Models (particularly Diffusions).
 
         Please reach out to collaborate 😃
     design:
