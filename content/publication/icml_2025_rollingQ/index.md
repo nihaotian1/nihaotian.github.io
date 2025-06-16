@@ -49,7 +49,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/2506.11465'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_code: 'https://github.com/GeWu-Lab/RollingQ_ICML2025'
 url_dataset: ''
