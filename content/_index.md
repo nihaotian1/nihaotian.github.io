@@ -66,7 +66,7 @@ sections:
       title: 'News'
       subtitle: ''
       text: |-
-        [2025-06-11] A paper accepted by ICML 2025! Thanks to all co-authors! 🎉🎉🎉
+        [2025-05-01] A paper accepted by ICML 2025! Thanks to all co-authors! 🎉🎉🎉
     design:
       columns: '1'
   - block: collection
